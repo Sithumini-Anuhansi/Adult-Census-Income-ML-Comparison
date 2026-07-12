@@ -60,8 +60,8 @@ Some of the key attributes include:
 
 Income
 
-- <=50K
-- >50K
+- " <=50K "
+- " >50K "
 
 ---
 
