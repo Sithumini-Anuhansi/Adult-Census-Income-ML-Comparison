@@ -1,8 +1,12 @@
 # Adult Census Income Prediction Using Machine Learning
 
+![Logo](images/adult-census-income.png)
+
 A comparative machine learning project that predicts whether an individual's annual income is **greater than \$50,000** or **less than or equal to \$50,000** using the Adult Census Income Dataset.
 
 The project demonstrates a complete end-to-end machine learning workflow including data preprocessing, exploratory data analysis (EDA), model training, evaluation, comparison, feature importance analysis, unsupervised learning, and best model selection.
+
+![Models](images/models.png)
 
 ---
 
